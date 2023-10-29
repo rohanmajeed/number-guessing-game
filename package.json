@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "our-gussing-game": "^1.0.2"
+  },
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rohan majeed",
+  "license": "ISC",
+  "description": "node project make anumber gussing game"
+}
